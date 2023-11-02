@@ -22,4 +22,5 @@
 - Step Functions - Orchestration service
 - Cloud Watch Events - create rules and  config json (git file names and the parameters)
 
-
+## Costs
+This is a cloud based solution using standard AWS & Snowflake costs. There are open source items too which are cost effective.
