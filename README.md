@@ -24,3 +24,8 @@
 
 ## Costs
 This is a cloud based solution using standard AWS & Snowflake costs. There are open source items too which are cost effective.
+
+
+## Notes
+- parsing.py - parsing script
+- parsing_dfs.py - parsing script with dataframes

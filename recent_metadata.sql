@@ -1,3 +1,4 @@
+--Write a query to find the most recent metadata for each photo belonging to a user
 SELECT
   *
 FROM
